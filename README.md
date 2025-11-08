@@ -441,9 +441,7 @@ This project demonstrates several important concepts:
 
 **Hackathon**: Qiskit Fall Fest Madrid 2025 - Quantum Madrid × UPM
 
-**Team Members**: [Your team members here]
-
-**Contact**: [Your contact information]
+**Team Members**: Johanna Angulo, Enrique José Gómez García, Diego Barroso Martín, Adrián Madrid Gámez, Guillermo Carrasco Soto 
 
 ---
 
