@@ -11,7 +11,7 @@
 
 ## 🎯 Project Overview
 
-**Quantomics** presents a novel **multi-agent system architecture** for protein structure prediction that intelligently combines classical AI, quantum computing, and experimental validation. This project was developed for the **Qiskit Fall Fest Madrid 2025 - Quantum Madrid × UPM** hackathon.
+**Quantomics** presents a **multi-agent system architecture** for protein structure prediction that intelligently combines classical AI, quantum computing, and experimental validation. This project was developed for the **Qiskit Fall Fest Madrid 2025 - Quantum Madrid × UPM** hackathon.
 
 ### 🏗️ Project Status
 
