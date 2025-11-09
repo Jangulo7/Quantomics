@@ -1,29 +1,40 @@
-# Python
+# Virtual environments (NEVER upload these!)
+.venv*/
+venv/
+env/
+ENV/
+.venv_alphafold/
+.venv_qiskit/
+
+# Python cache
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
+*.pyc
+*.pyo
+*.pyd
 .Python
 
-# Virtual environments
-.venv/
-.venv_qiskit/
-venv/
-ENV/
-env/
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# Large binary files
+*.pkl
+*.h5
+*.pth
+*.pt
+*.ckpt
+*.so
+*.dylib
+*.dll
 
-# IDE
-.vscode/
-.idea/
+# OS files
+.DS_Store
+Thumbs.db
 *.swp
 *.swo
 *~
 
-# OS
-.DS_Store
-Thumbs.db
-*.pkl
-*.h5
+# IDE
+.vscode/
+.idea/
+*.code-workspace
