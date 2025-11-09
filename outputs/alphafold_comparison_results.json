@@ -1,0 +1,42 @@
+{
+  "high_confidence": {
+    "name": "Human Ubiquitin",
+    "uniprot_id": "P0CG48",
+    "statistics": {
+      "mean": 88.64502189781021,
+      "median": 90.69,
+      "std": 8.414042392279857,
+      "min": 33.41,
+      "max": 97.12,
+      "q25": 86.88,
+      "q75": 93.94,
+      "very_high_conf": 56.058394160583944,
+      "high_conf": 39.270072992700726,
+      "medium_conf": 4.233576642335766,
+      "low_conf": 0.43795620437956206
+    },
+    "confidence": "HIGH"
+  },
+  "low_confidence": {
+    "name": "Human Alpha-Synuclein",
+    "uniprot_id": "P37840",
+    "statistics": {
+      "mean": 75.18371428571429,
+      "median": 85.185,
+      "std": 18.33472580896142,
+      "min": 39.53,
+      "max": 94.56,
+      "q25": 55.25,
+      "q75": 90.41,
+      "very_high_conf": 28.57142857142857,
+      "high_conf": 34.285714285714285,
+      "medium_conf": 24.285714285714285,
+      "low_conf": 12.857142857142856
+    },
+    "confidence": "HIGH"
+  },
+  "comparison": {
+    "delta_mean_plddt": 13.461307612095922,
+    "mean_ratio": 1.179045525217603
+  }
+}

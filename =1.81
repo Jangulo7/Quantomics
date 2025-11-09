@@ -1,6 +1,0 @@
-Collecting biopython
-  Using cached biopython-1.86-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.metadata (13 kB)
-Requirement already satisfied: numpy in ./.venv_alphafold/lib/python3.12/site-packages (from biopython) (2.3.4)
-Using cached biopython-1.86-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (3.2 MB)
-Installing collected packages: biopython
-Successfully installed biopython-1.86
