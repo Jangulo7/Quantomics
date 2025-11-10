@@ -38,3 +38,9 @@ Thumbs.db
 .vscode/
 .idea/
 *.code-workspace
+.venv*/
+venv/
+__pycache__/
+*.ipynb_checkpoints/
+*.egg-info/
+.env
